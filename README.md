@@ -1,3 +1,5 @@
 # config-core-js
 
-Basic Configuration for .Net Core API Project with (Angular 1 (JS) and Vue.js) without node server and Http Application
+*Basic Configuration for .Net Core API Project 
+*For Angular.js (Angular 1) and Vue.js without node server
+*For Http Application
